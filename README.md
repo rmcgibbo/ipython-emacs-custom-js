@@ -1,7 +1,7 @@
 ## Emacs-style keybindings for Jupyter notebook
 
 This Jupyter notebook extension provides emacs-style key bindings
-for navigation within cells (Ctrl-A, Crtl-E, Ctrl-W, Ctrl-D, Ctrl-K,
+for navigation within cells (Ctrl-A, Ctrl-E, Ctrl-W, Ctrl-D, Ctrl-K,
 Ctrl-Y).
 
 ### Installation
